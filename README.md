@@ -1,6 +1,7 @@
 # minimal_software_catalog
 minimal software catalog
 
+```
 # Simple Inventory Schema
 service_id: "payment-gateway"
 display_name: "Payment Gateway API"
@@ -15,3 +16,4 @@ owner:
 links:
   repository: "https://github.com/org/payment-gateway"
   runbook: "https://wiki.internal/runbooks/payments"
+```
