@@ -42,6 +42,6 @@ links:
   runbook: "{{ cookiecutter.runbook_url }}"
 ```
 
-RUN IT
+# run it
 cookiecutter https://github.com/your-username/cookiecutter-inventory-item
 
